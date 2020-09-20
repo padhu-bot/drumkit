@@ -3,7 +3,7 @@ Make the noise
 
 # index.html page:
 
-✔Have set the title, as drum kit.
+✔Have set the title, as drum kit.\n
 ✔Linked css style file.
 ✔Linked the google font i preffered.
 ✔Set the title, as drum kit.
